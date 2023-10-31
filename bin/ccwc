@@ -1,0 +1,1 @@
+python wc.py "$1" "$2" 
